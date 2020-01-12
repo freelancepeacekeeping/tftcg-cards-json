@@ -1,0 +1,574 @@
+{
+  "records": [
+    {
+      "id": "rec556XYMvHqKcYYh",
+      "fields": {
+        "Name": "Optimus Maximus",
+        "Image": [
+          {
+            "id": "attcyofPZvSCwzngB",
+            "url": "https://dl.airtable.com/.attachments/25752a8f41d9fc5c41f32e25e4e8e77f/ea05044f/optimusmaximus.png",
+            "filename": "optimusmaximus.png",
+            "size": 5249410,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2c75f5ab3e32cfc74e4b36f971eb96d6/e091ed99",
+                "width": 35,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e054d1f7036cdf97989064ab3720e04b/dc514a24",
+                "width": 512,
+                "height": 533
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8449d5638cb3d6c26f6d5dc18a313123/8d8d3da3",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 65,
+        "\u2694\ufe0f": 9,
+        "\ud83d\udee1\ufe0f": 1,
+        "Component Bots": [
+          "rec2ygNEcAGnxDwd1",
+          "recGuKzbKXXUgJta0",
+          "recbH0wIdJkRxFjuV",
+          "rec7bBz5eiEkOawEM",
+          "recT2v5GFOvSNZgr2",
+          "recE5tIist6J4UXJL"
+        ],
+        "Enigma Card": [
+          "rec1TpSn0KYIyoUkk"
+        ],
+        "Card Text": "When this battles \u2192 Draw a card. Then Plan 1. (You may put 1 card from your hand on top of your deck.)",
+        "\u2b50": 46,
+        "Subtitle": "Ultimate Defender",
+        "Roles": [
+          "Ranged",
+          "Leader"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Autobot",
+        "Tribe": "Sentinel"
+      },
+      "createdTime": "2019-02-08T01:19:53.000Z"
+    },
+    {
+      "id": "rec6BufiPSqB4d7IJ",
+      "fields": {
+        "Name": "Devastator",
+        "Image": [
+          {
+            "id": "attP1h2F9V1yGsM1x",
+            "url": "https://dl.airtable.com/.attachments/81b013462e08ee5c8988a655fc3c2f83/38e8443f/gFXejiZ.jpg",
+            "filename": "gFXejiZ.jpg",
+            "size": 241843,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b24da56f3da5a31f86cf2d063a428dd0/b235c82a",
+                "width": 34,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c4f96d72e9d5fd27736bb17474a8738b/a6262ccd",
+                "width": 512,
+                "height": 538
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/232949e38da608b9c0c1e70d6c018d10/005b5269",
+                "width": 1034,
+                "height": 1086
+              }
+            }
+          },
+          {
+            "id": "attksLwqXlsJfEUZe",
+            "url": "https://dl.airtable.com/.attachments/891294c8c9f83e3ed86bb5656364c888/fbdca999/devastator.jpg",
+            "filename": "devastator.jpg",
+            "size": 257817,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/05f191e2d2f584b0ebae02c500eb2bb0/c398a5e5",
+                "width": 34,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/c853134efbb256b6267cc51c62dfd01b/6431abbb",
+                "width": 512,
+                "height": 537
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/dc91b106612dc763d6b6fce27ebef606/c357075e",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 33,
+        "\u2694\ufe0f": 6,
+        "\ud83d\udee1\ufe0f": 2,
+        "Component Bots": [
+          "recqbJkoIqAhUDmX0",
+          "rec6IiENgs1h1XQeQ",
+          "recmwY9unk7A70jp4",
+          "recPd5ZUY8n7iNril",
+          "recP5m2vxTgkfnrYB",
+          "recUwpNdGMDZx6UwW"
+        ],
+        "Enigma Card": [
+          "rec4kVgbW67ubPhk8"
+        ],
+        "Card Text": "When this is combined \u2192 Repair an amount of damage from him equal to the height of your Tower.\n\nWhile your Tower is 6 or higher \u2192 This has Bold 2.\n\nWhile your Tower is 10 or higher \u2192 Change this character's base \u2694\ufe0f from 6 to 10.",
+        "\u2b50": 25,
+        "Subtitle": "Towering Warrior",
+        "Roles": [
+          "Melee"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Decepticon",
+        "Tribe": "Constructicon"
+      },
+      "createdTime": "2019-02-08T21:49:24.000Z"
+    },
+    {
+      "id": "rec8UcA84uBhTN9Ul",
+      "fields": {
+        "Name": "Predaking",
+        "Image": [
+          {
+            "id": "attEi7gxSpBG9RFAd",
+            "url": "https://dl.airtable.com/.attachments/c8ddb068d3e812e7c041ecc22ac7baab/d0705b00/FbCQKhl.jpg",
+            "filename": "FbCQKhl.jpg",
+            "size": 381006,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/253d5419a65e8ad9d77d121a300d5ada/affd057d",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5ceb3194205f7f5da5104dbc45c84112/0038dcfc",
+                "width": 537,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ab36301d799e91d0c5dd2a6ea796494a/04af3e23",
+                "width": 1250,
+                "height": 1191
+              }
+            }
+          },
+          {
+            "id": "attFUl2rDxhfzKJdr",
+            "url": "https://dl.airtable.com/.attachments/54460c220ab551d96f438b7da2333282/e43c45ff/predaking.jpg",
+            "filename": "predaking.jpg",
+            "size": 364012,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/a1c4c66944a7eaabf37081badd4ce927/7e764c15",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/df2fa43e2188b0e214728c4cee6a5b1c/3a2aaeaf",
+                "width": 538,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/22805a561caa6a970eab1621e10e60bc/b701fa46",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 37,
+        "\u2694\ufe0f": 7,
+        "\ud83d\udee1\ufe0f": 2,
+        "Component Bots": [
+          "rech79h7QCa9i66qa",
+          "recmwALHOVmOtRxRA",
+          "recRO3Yof4LUvSdrK",
+          "recXWw1InaaLLgoJq",
+          "recN4fvr841wDtYBS"
+        ],
+        "Enigma Card": [
+          "recwMOLQs3T7Cpn2k"
+        ],
+        "Card Text": "This has 5 weapon slots.\n\nWhen this is combined \u2192 Draw a card. Then you may play a card.",
+        "\u2b50": 25,
+        "Subtitle": "Ferocious Hunter",
+        "Roles": [
+          "Melee"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Decepticon",
+        "Tribe": "Predacon"
+      },
+      "createdTime": "2019-02-08T00:19:39.000Z"
+    },
+    {
+      "id": "recQ315CkIlT4yFmf",
+      "fields": {
+        "Name": "Captain Omega Supreme",
+        "Image": [
+          {
+            "id": "attendU9xhHQxFJku",
+            "url": "https://dl.airtable.com/.attachments/f2e2f898b17dbd6b06e65796265887e1/25fabba7/omega-combiner.png",
+            "filename": "omega-combiner.png",
+            "size": 1458993,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b864110c5e899cbd02bf61c8c9d0e04c/a550ad3b",
+                "width": 30,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ad21e073e4bf89f843527429fa0cbada/a1f3910a",
+                "width": 512,
+                "height": 620
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/ce3c762bed75a50a2e5dd782de951c65/077c95c1",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 33,
+        "\u2694\ufe0f": 7,
+        "\ud83d\udee1\ufe0f": 3,
+        "Component Bots": [
+          "recra9wkLbJrM0yZ5",
+          "recwKnRzIAPM79hfd",
+          "recIHhzGSR69R237Q"
+        ],
+        "Card Text": "(This begins untapped, has all damage from the combined characaters, and keeps 1 Upgrade in each slot.)\n\nPierce 4 (Do at least 4 damage when attacking, but not more than [ATK] total.)\n\nWhen this attacks > You may scrap 4 cards from your hand. If you do, scrap all the defender's Upgrades, then do 1 damage to each enemy.",
+        "\u2b50": 22,
+        "Subtitle": "Transport \u2022 City Defender",
+        "Roles": [
+          "Leader",
+          "Melee",
+          "Ranged"
+        ],
+        "Affiliation": "Autobot"
+      },
+      "createdTime": "2019-10-17T21:39:45.000Z"
+    },
+    {
+      "id": "recTtAb0NJRyIfPdK",
+      "fields": {
+        "Name": "Superion",
+        "Image": [
+          {
+            "id": "attN4gblDf3GnZQHn",
+            "url": "https://dl.airtable.com/.attachments/5660c1a9de63f49b30582401274bd3e5/896ed856/superion.png",
+            "filename": "superion.png",
+            "size": 4014812,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/8f1bb862d2c19c3ded14d5a5df291e09/46c8c187",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/75ac70b3882e68e11d766d48b34b3cd1/27ac1ef4",
+                "width": 536,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/e2d9782abe835caf8126a5694f21b703/70eec30c",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 39,
+        "\u2694\ufe0f": 6,
+        "\ud83d\udee1\ufe0f": 1,
+        "Component Bots": [
+          "recBJk5iyGSVkoiy2",
+          "recnkaBP955zM18LM",
+          "recve3xPQgkSZHfbm",
+          "recFnBFqLfJ5swKhm",
+          "recm158DCjkSaPvNr"
+        ],
+        "Enigma Card": [
+          "rec02Zk3shzk3peG2"
+        ],
+        "Card Text": "Bold 1, Tough 2, Pierce 3\n\nWhen this is combined \u2192 Do 3 damage to an enemy.",
+        "\u2b50": 25,
+        "Subtitle": "Sky Protector",
+        "Roles": [
+          "Ranged"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Autobot",
+        "Tribe": "Aerialbot"
+      },
+      "createdTime": "2019-02-08T01:14:09.000Z"
+    },
+    {
+      "id": "recWtnczdRKwmpHHu",
+      "fields": {
+        "Name": "Dreadwing",
+        "Image": [
+          {
+            "id": "attl5hknRXUI1C5Hw",
+            "url": "https://dl.airtable.com/.attachments/0c98802115eca5c0392cedc567c889cc/b1ea2844/7ZTiHuJ.jpg",
+            "filename": "7ZTiHuJ.jpg",
+            "size": 159888,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/745106414c575457b12085310903dc67/4d400f13",
+                "width": 26,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/581af387a9c7111224272183e07f93d9/1ff3a030",
+                "width": 512,
+                "height": 717
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/f98b5a4b3335a8d106a35252ae759322/6c1f91f0",
+                "width": 750,
+                "height": 1051
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 24,
+        "\u2694\ufe0f": 7,
+        "\ud83d\udee1\ufe0f": 2,
+        "Component Bots": [
+          "reczqPMgDTNiSZOiw",
+          "recyV6aNsVNEpIZWu"
+        ],
+        "Card Text": "(This begins untapped and has all damage from the combined characters.)\n\nThis has 2 Weapon slots, 2 Armor slots, and 2 Utility slots.",
+        "\u2b50": 16,
+        "Subtitle": "Sky Destroyer",
+        "Roles": [
+          "Melee"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recMm5qm81tqC4f3o",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Decepticon",
+        "Tribe": "Dreadwing",
+        "Type": "Plane"
+      },
+      "createdTime": "2019-02-14T00:06:57.000Z"
+    },
+    {
+      "id": "recazq7ZL6mawoz9Q",
+      "fields": {
+        "Name": "Menasor",
+        "Image": [
+          {
+            "id": "attK79pluW4q8F6ZD",
+            "url": "https://dl.airtable.com/.attachments/52f1acfb02b3890e562995dee09308bc/d192ff3a/13e1HzL.jpg",
+            "filename": "13e1HzL.jpg",
+            "size": 450025,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/84b29687bd247dfadeacd841bb06b8e4/444642df",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/bc807708eeb650343bf794790c0de217/68bbb5fe",
+                "width": 536,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/b9819af2676a3d4c35cf1c2232adb381/b161aed8",
+                "width": 1363,
+                "height": 1302
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 35,
+        "\u2694\ufe0f": 6,
+        "\ud83d\udee1\ufe0f": 2,
+        "Component Bots": [
+          "recDxGKC14wYi9ZRQ",
+          "recgiTXJfdPkzR5nk",
+          "recdUpVR15AAQjRPg",
+          "recZRrC9MULcAJOMn",
+          "recyNk0DuiGuMVYNr"
+        ],
+        "Enigma Card": [
+          "recYZA9cN0OzfUKzR"
+        ],
+        "Card Text": "Bold 1, Tough 1, Pierce 1\n\nYou may play an extra Action on each of your turns.\n\nWhen this is combined \u2192 Draw 2 cards.",
+        "\u2b50": 25,
+        "Subtitle": "Menacing Colossus",
+        "Roles": [
+          "Melee"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Decepticon",
+        "Tribe": "Stunticon"
+      },
+      "createdTime": "2019-02-08T01:13:55.000Z"
+    },
+    {
+      "id": "recfwOH8RXEiLPgLL",
+      "fields": {
+        "Name": "Volcanicus",
+        "Image": [
+          {
+            "id": "attdlBrzn09ala2zV",
+            "url": "https://dl.airtable.com/.attachments/fe908ef76caa63bb339bb50b75b25218/d9dda51e/volcanicus.png",
+            "filename": "volcanicus.png",
+            "size": 4691729,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/5f54a5a8ede76feb2ddc925753878e4b/465cb480",
+                "width": 38,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2e7a662f04e3b1cd011bf9413f55f626/a941d825",
+                "width": 537,
+                "height": 512
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/894d97c9ce72ffb72f1303d03d55f570/4dd63a83",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 56,
+        "\u2694\ufe0f": 6,
+        "\ud83d\udee1\ufe0f": 0,
+        "Component Bots": [
+          "recDFKiUJ2tAvwrmK",
+          "recn8M5MkecgNnU8u",
+          "recGgSiQpvcRtklkm",
+          "rec1RxJHBUkyOMj4A",
+          "rec37pmUizI70d0xm"
+        ],
+        "Enigma Card": [
+          "rec7PNZ19GVeVd8OJ"
+        ],
+        "Card Text": "When this attacks on the turn he's combined \u2192 For each battle card you flip that has at least \ud83d\udd36, do 1 damage to the defender.",
+        "\u2b50": 39,
+        "Subtitle": "Fiery Champion",
+        "Roles": [
+          "Melee"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Autobot",
+        "Tribe": "Dinobot"
+      },
+      "createdTime": "2019-02-08T00:19:39.000Z"
+    },
+    {
+      "id": "recwJ78hf7DXluMha",
+      "fields": {
+        "Name": "Raider Skytread",
+        "Image": [
+          {
+            "id": "attU1HfX5uaXWM1kP",
+            "url": "https://dl.airtable.com/.attachments/97398c9c5b223b6a48bab06e5e3d9f17/430f0260/skytread-combiner.png",
+            "filename": "skytread-combiner.png",
+            "size": 1039186,
+            "type": "image/png",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/4358eb81b7e16c89cdaa09476a5cf44d/aca09117",
+                "width": 26,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/210fa9f116bf1575b121d56ead7ab2b6/043dec0b",
+                "width": 512,
+                "height": 716
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/cc699279c61a273f734047c6c29f34b3/bcdcef00",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "\ud83e\udde1": 18,
+        "\u2694\ufe0f": 6,
+        "\ud83d\udee1\ufe0f": 3,
+        "Component Bots": [
+          "recNvmVpyhvIG1ZNI",
+          "recpn91vXzo7HmPUh"
+        ],
+        "Card Text": "(This begins untapped, has all damage from the combined characters, and keeps 1 Upgrade in each slot.)\n\nWhen this attacks > You may put a face-down card from under this into your hand. If you do, move 1 damage counter from this to the defender.",
+        "\u2b50": 12,
+        "Subtitle": "Special Ops \u2022 Soldier",
+        "Roles": [
+          "Ranged"
+        ],
+        "Rulings / Errata": [
+          "recKYixiPeYbwTio5",
+          "recuFFMmWfyhSmzNz",
+          "recZHHOSLKR6vpXte",
+          "rec9YcwyFDMe50V3m"
+        ],
+        "Affiliation": "Decepticon"
+      },
+      "createdTime": "2019-10-16T00:45:24.000Z"
+    }
+  ]
+}
