@@ -24,7 +24,7 @@ o8d_file = ARGV[0]
 xmldoc = Document.new(File.new(o8d_file))
 root = xmldoc.root
 
-deck_title = o8d_file   # TODO: Convert this to a more readable format
+deck_title = o8d_file.gsub(/^.*\//, '').gsub(/\.o8d$/, '').gsub(/(.)([A-Z])/, '\1 \2')
 
 # Read in the main database jsons
 combiner_forms_raw=JSON.parse(File.read('../json/combiner-forms.json'))
