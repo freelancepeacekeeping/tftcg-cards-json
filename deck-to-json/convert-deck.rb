@@ -26,10 +26,15 @@ root = xmldoc.root
 
 deck_title = o8d_file.gsub(/^.*\//, '').gsub(/\.o8d$/, '').gsub(/(.)([A-Z])/, '\1 \2')
 
+# TODO: Currently there is a bug in that the o8d format uses the Battlemaster's upgrade mode, not their bot mode.
+#       This means that the data matches to the wrong pricing/database values. 
+#       Somehow need to match against the Battlemaster names too. That will mean matching against the 
+#       database first, then using the data found there to match against the pricing. 
+
 # Read in the main database jsons
-combiner_forms_raw=JSON.parse(File.read('../json/combiner-forms.json'))
-battle_cards_raw=JSON.parse(File.read('../json/battle-cards.json'))
-bot_cards_raw=JSON.parse(File.read('../json/bot-cards.json'))
+combiner_forms_raw=JSON.parse(File.read(File.expand_path('../json/combiner-forms.json', __dir__)))
+battle_cards_raw=JSON.parse(File.read(File.expand_path('../json/battle-cards.json', __dir__)))
+bot_cards_raw=JSON.parse(File.read(File.expand_path('../json/bot-cards.json', __dir__)))
 
 # Index these jsons
 combiner_forms = index_tcards_json(combiner_forms_raw)
@@ -37,7 +42,7 @@ battle_cards = index_tcards_json(battle_cards_raw)
 bot_cards = index_tcards_json(bot_cards_raw)
 
 # Read in pricing json
-pricing=JSON.parse(File.read('../pricing/pricing.json'))
+pricing=JSON.parse(File.read(File.expand_path('../pricing/pricing.json', __dir__)))
 
 
 ##################### EXAMPLE ############################
