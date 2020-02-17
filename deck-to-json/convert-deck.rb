@@ -120,7 +120,7 @@ root.each_element('section') do |section|
   name=section.attribute('name')
   cards = Array.new
   json_output[name] = cards
-  
+
   section.each_element('card') do |card|
     json_card = Hash.new
     json_card['title'] = card.text
@@ -145,6 +145,28 @@ root.each_element('section') do |section|
     end
 
     cards << json_card
+  end
+end
+
+rarity_enum = { 'Common' => 0, 'Uncommon' => 1, 'Rare' => 2, 'Super-Rare' => 3 }
+
+json_output.each() do |key, value|
+
+#  if(value.respond_to?('sort'))
+  if(value.kind_of?(Array))
+    json_output[key] = value.sort do |a, b|
+      if a['details']['fields'].has_key?('Component Bots') and b['details']['fields'].has_key?('Component Bots')
+        # Combiners lack sets or rarity
+        a['title'] <=> b['title']
+      elsif a['details']['fields'].has_key?('Component Bots')
+        0
+      elsif b['details']['fields'].has_key?('Component Bots')
+        1
+      else
+        [a['details']['fields']['Set'], rarity_enum[a['details']['fields']['Rarity']], a['title']] <=>
+        [b['details']['fields']['Set'], rarity_enum[b['details']['fields']['Rarity']], b['title']]
+      end
+    end
   end
 end
 
